@@ -22,5 +22,5 @@ export default function countCats(arr) {
 			cats.push(arrFlat[i]);
 		}
 	}
-	return cats.length;
+	return cats.length; 
 }
